@@ -58,15 +58,13 @@ function App() {
           </p>
           <div className="mt-4 opacity-0 animate-[fadeIn_1s_forwards_1.3s]">
             <a
-              href="https://github.com"
+              href="https://github.com/Humeira/full-moon-vibes"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 text-indigo-300 hover:text-white transition-colors"
             >
               <GithubIcon size={16} />
-              <a href="https://github.com/Humeira/full-moon-vibes">
-                View on GitHub
-              </a>
+              <span>View on GitHub</span>
             </a>
           </div>
         </footer>
